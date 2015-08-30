@@ -24,6 +24,8 @@ IntelliJ
 
 PyTest
 
+Travis.ci
+
 ### Environments
 
 Anaconda
@@ -81,6 +83,8 @@ Node.js
 Tornado
 
 React.js
+
+MongoDB
 
 Meteor
 
