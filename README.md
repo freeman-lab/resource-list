@@ -24,7 +24,7 @@ IntelliJ
 
 PyTest
 
-SublimeText
+Sublime Text
 
 Travis.ci
 
