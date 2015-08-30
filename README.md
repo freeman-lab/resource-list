@@ -1,10 +1,18 @@
-This is an opinionated collection of resources and links for modern scientific computing.
+This is an opinionated collection of resources and links for modern scientific computing. At the very least, I can say that these are things we use and find useful on a regular basis in our work. This topic comes up a lot at tutorials and courses, so I wanted to consolidate it all in one place.
+
+There are plenty of things not in this list only because we don't use them that much. If you have suggestions as to what to add, please submit a PR!
 
 ## Languages
 
 Python
 
 Julia
+
+## Data structures
+
+Pandas
+
+Xray
 
 ## Environments
 
@@ -13,6 +21,8 @@ Anaconda
 Docker
 
 Binder
+
+Tmpnb
 
 ## Notebooks
 
@@ -26,11 +36,23 @@ Amazon Web Services
 
 Google Cloud
 
-## Cluster computing
+## Distributed computing
 
 Spark
 
+Dask
+
+## Analysis
+
 Thunder
+
+Theano
+
+Caffe
+
+Scikit-learn
+
+Scikit-image
 
 ## Visualization
 
@@ -40,13 +62,17 @@ Seaborn
 
 Lightning
 
-## Web development
+ColorBrewer
 
-Meteor
+## Web development
 
 Node.js
 
 Tornado
+
+React.js
+
+Meteor
 
 
 
