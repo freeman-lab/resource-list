@@ -24,6 +24,8 @@ IntelliJ
 
 PyTest
 
+SublimeText
+
 Travis.ci
 
 ### Environments
