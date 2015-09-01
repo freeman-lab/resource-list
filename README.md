@@ -12,9 +12,9 @@ Julia
 
 ### Data structures
 
-Pandas
+[Pandas](http://pandas.pydata.org/)
 
-Xray
+[Xray](http://xray.readthedocs.org/en/stable/)
 
 ### Development
 
