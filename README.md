@@ -18,7 +18,7 @@ Julia
 
 ### Development
 
-PyCharm
+[PyCharm](https://www.jetbrains.com/pycharm/)
 
 IntelliJ
 
